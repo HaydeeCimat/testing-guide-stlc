@@ -1,3 +1,6 @@
+Análisis
+===
+
 # Análisis de Requisitos
 
 El análisis de requisitos establece las bases del subproceso de pruebas mediante la evaluación sistemática de los requisitos del software, la arquitectura y el diseño del sistema. Esta fase permite derivar criterios de validación, identificar condiciones críticas y asegurar que los elementos aprobados sean entendidos, trazables y verificables desde el punto de vista de pruebas.

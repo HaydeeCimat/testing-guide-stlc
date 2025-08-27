@@ -1,3 +1,6 @@
+Planificación de Pruebas
+===
+
 # Planificación de Pruebas
 
 La planificación de pruebas establece un plan estructurado que define el enfoque, los recursos, los responsables y los criterios necesarios para llevar a cabo las actividades de pruebas de manera efectiva. Este plan actúa como una guía de ejecución, coordinación y supervisión a lo largo de todo el subproceso de pruebas, adaptado a las necesidades de los sistemas CubeSat.

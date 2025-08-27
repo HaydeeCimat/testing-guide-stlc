@@ -1,3 +1,6 @@
+Cierre de pruebas
+===
+
 # Cierre de Pruebas
 
 El cierre de pruebas consolida los resultados obtenidos durante la ejecución, valida la conformidad del sistema respecto a los criterios definidos, formaliza la aceptación del software por parte del cliente, y genera productos de cierre que permiten retroalimentar futuras iteraciones o proyectos similares.

@@ -1,3 +1,7 @@
+Diseño de pruebas
+===
+
+
 # Diseño de Pruebas
 
 El diseño de pruebas define y documenta los casos de prueba, los procedimientos, los datos y las condiciones necesarias para validar que el sistema cumple con los requisitos especificados. Se busca garantizar la trazabilidad entre los requisitos y las pruebas, así como preparar el entorno y los insumos requeridos para su correcta ejecución.

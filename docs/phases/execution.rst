@@ -1,3 +1,6 @@
+Ejecución de pruebas
+===
+
 # Ejecución de Pruebas
 
 La ejecución de pruebas constituye la fase operativa del subproceso, donde se ejecutan los casos de prueba previamente diseñados para verificar y validar el funcionamiento del sistema conforme a los requisitos establecidos. Esta fase incluye pruebas unitarias, de integración, sistema, regresión y otras pruebas específicas aplicables a CubeSats, como aquellas que simulan condiciones espaciales. También se registran los resultados, se gestionan defectos y se documentan hallazgos.
