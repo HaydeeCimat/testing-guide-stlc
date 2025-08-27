@@ -65,7 +65,7 @@ Durante la ejecución se generan productos internos como logs del sistema, captu
 
 ## Diagrama de Ejecución de Pruebas
 
-.. figure:: _static/images/Guia_P4.png
+.. figure:: /_static/images/Guia_P4.png
    :alt: Diagrama de ejecución de pruebas
    :width: 100%
    :align: center

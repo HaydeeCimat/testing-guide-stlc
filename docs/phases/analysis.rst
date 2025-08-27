@@ -39,7 +39,7 @@ Durante la ejecución pueden generarse productos internos como plantillas de tra
 
 ## Diagrama de Análisis de Requisitos
 
-.. figure:: _static/images/Guia_P1.png
+.. figure:: /_static/images/Guia_P1.png
    :alt: Diagrama general del subproceso de pruebas propuesto
    :width: 100%
    :align: center

@@ -64,7 +64,7 @@ Durante el cierre se generan productos internos como bitácora final de pruebas,
 | **Ingenieros de Misión** | Apoyar en validación técnica bajo condiciones simuladas |
 | **Cliente/Usuario** | Revisar y aprobar la aceptación final del sistema |
 
-.. figure:: _static/images/Guia_P5.png
+.. figure:: /_static/images/Guia_P5.png
    :alt: Diagrama de cierre de pruebas
    :width: 100%
    :align: center

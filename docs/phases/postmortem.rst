@@ -70,7 +70,7 @@ Durante esta fase se generan productos internos como resumen de métricas e indi
 | **Desarrolladores** | Contribuir con perspectivas técnicas y participar en identificación de mejoras |
 | **Cliente/Usuario** | Recibir documentación final y aportar perspectivas externas al proceso |
 
-.. figure:: _static/images/Guia_P6.png
+.. figure:: /_static/images/Guia_P6.png
    :alt: Diagrama de fase postmortem
    :width: 100%
    :align: center

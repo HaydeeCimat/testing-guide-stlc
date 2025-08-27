@@ -6,7 +6,7 @@ Esta guía presenta un subproceso de pruebas adaptado al ciclo de vida STLC, ori
 Ofrece una estructura clara de fases, actividades, productos de trabajo y roles para facilitar la validación de software en entornos críticos y con recursos limitados.
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 1
    :caption: Contenido
 
    introduction
@@ -16,12 +16,7 @@ Ofrece una estructura clara de fases, actividades, productos de trabajo y roles 
    stlc
    overview
 
-   phases/analysis
-   phases/planning
-   phases/design
-   phases/execution
-   phases/closure
-   phases/postmortem
+   phases/index
 
    roles
    products

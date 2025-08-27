@@ -52,7 +52,7 @@ Durante la ejecución pueden generarse productos internos como estimaciones de e
 
 ## Diagrama de Planificación de Pruebas
 
-.. figure:: _static/images/Guia_P2.png
+.. figure:: /_static/images/Guia_P2.png
    :alt: Diagrama de planificación de pruebas
    :width: 100%
    :align: center
