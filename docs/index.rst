@@ -6,7 +6,7 @@ Esta guía presenta un subproceso de pruebas adaptado al ciclo de vida STLC, ori
 Ofrece una estructura clara de fases, actividades, productos de trabajo y roles para facilitar la validación de software en entornos críticos y con recursos limitados.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Contenido
 
    introduction
