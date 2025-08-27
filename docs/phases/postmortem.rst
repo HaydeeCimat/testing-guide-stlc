@@ -58,7 +58,7 @@ Generación prospectiva de:
 - **Acta de Cierre de Pruebas** - Documento formal de finalización del subproceso
 - **Recomendaciones para Proyectos Futuros** - Guía estratégica para implementaciones posteriores
 
-### Productos de apoyo
+Productos de apoyo
 Durante esta fase se generan productos internos como resumen de métricas e indicadores por fase del STLC, evaluación cualitativa del trabajo en equipo y comunicación, análisis comparativo de herramientas y métodos utilizados, evaluación de cobertura alcanzada, y registro de decisiones técnicas post-cierre.
 
 ## Roles y responsabilidades
