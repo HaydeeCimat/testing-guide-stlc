@@ -43,14 +43,6 @@ Durante la ejecución pueden generarse productos internos como plantillas de tra
 
    Figura 2. Diagrama que ilustra la secuencia lógica de actividades, productos de trabajo y actores involucrados en la fase de análisis de requisitos.
 
-
-## Actividades detalladas
-
-| Modelo | ID | Descripción | Entrada | Salida | Roles |
-|--------|----|-----------|---------|---------|----- |
-| NASA-STLC | DF2.1 | Análisis de Requisitos, Arquitectura y Diseño | Requisitos de software [Validados]<br>Arquitectura y Diseño [Validados] | Documento de Análisis [Revisado]<br>Requisitos de Pruebas [Preliminar, Revisado] | Equipo de Pruebas<br>Desarrolladores |
-| ISO 29110 | IS 2.2 | Documentar y verificar la especificación de requisitos de pruebas | Requisitos de Pruebas [Preliminar, Revisado] | Requisitos de Pruebas [Verificado] | Equipo de Pruebas<br>Desarrolladores |
-
 ## Herramientas recomendadas
 
 - **Gestión de requisitos** - ReqView, Polarion, IBM DOORS para proyectos formales; hojas de cálculo estructuradas para recursos limitados
