@@ -1,3 +1,6 @@
+Introducción
+============
+
 # Introducción
 
 El desarrollo de software para sistemas críticos requiere procesos de pruebas rigurosos y bien estructurados. Esta guía presenta una adaptación práctica del Software Testing Life Cycle (STLC), basada en los modelos utilizados por la NASA y complementada con mejores prácticas de estándares reconocidos como ISO/IEC 29110, CMMI y TMMi.
