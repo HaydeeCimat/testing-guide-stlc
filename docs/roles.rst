@@ -5,7 +5,7 @@ Esta sección describe los roles clave involucrados en la ejecución del subproc
 
 La asignación clara y coherente de estos roles es esencial para asegurar la trazabilidad, validación efectiva y control de calidad del software crítico en contextos con equipos reducidos y recursos limitados.
 
-Tabla 15. Roles involucrados y abreviaturas utilizadas
+Roles involucrados y abreviaturas utilizadas
 -------------------------------------------------------
 
 .. list-table:: Roles involucrados y abreviaturas

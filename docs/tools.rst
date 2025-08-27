@@ -7,7 +7,7 @@ Dada la naturaleza de los equipos CubeSat (académicos o institucionales), se da
 
 Las tablas a continuación presentan una guía general sobre el tipo de herramientas sugeridas para cada fase o actividad del subproceso.
 
-16.1 Soporte a la Planificación y Gestión
+Soporte a la Planificación y Gestión
 -----------------------------------------
 
 .. list-table:: Herramientas sugeridas 1
@@ -25,7 +25,7 @@ Las tablas a continuación presentan una guía general sobre el tipo de herramie
    * - Repositorio de productos de trabajo
      - Sistemas de almacenamiento con historial (ej. Git, Nextcloud)
 
-16.2 Soporte al Diseño y Análisis de Pruebas
+Soporte al Diseño y Análisis de Pruebas
 --------------------------------------------
 
 .. list-table:: Herramientas sugeridas 2
@@ -43,7 +43,7 @@ Las tablas a continuación presentan una guía general sobre el tipo de herramie
    * - Definición de criterios de validación
      - Hojas de cálculo, bases de datos o sistemas internos documentados
 
-16.3 Soporte a la Ejecución de Pruebas
+Soporte a la Ejecución de Pruebas
 --------------------------------------
 
 .. list-table:: Herramientas sugeridas 3
@@ -61,7 +61,7 @@ Las tablas a continuación presentan una guía general sobre el tipo de herramie
    * - Gestión de defectos
      - Herramientas de seguimiento de issues (ej. GitHub Issues, MantisBT, Redmine)
 
-16.4 Soporte al Cierre y Mejora del Proceso
+Soporte al Cierre y Mejora del Proceso
 -------------------------------------------
 
 .. list-table:: Herramientas sugeridas 4

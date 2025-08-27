@@ -15,7 +15,7 @@ Los estados definidos para los productos en esta guía son los siguientes:
 - **[Verificado]**: El producto cumple con los criterios definidos y ha sido evaluado en su estructura técnica.  
 - **[Validado]**: El producto ha sido probado o aceptado en un entorno representativo del sistema o misión.  
 
-Tabla 16. Descripción de productos de trabajo
+Descripción de productos de trabajo
 ---------------------------------------------
 
 .. list-table:: Descripción de productos de trabajo

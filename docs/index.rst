@@ -1,4 +1,4 @@
-Guía de Pruebas de Software para CubeSats
+Guía de Pruebas de Software 
 =========================================
 
 Esta guía presenta un subproceso de pruebas adaptado al ciclo de vida STLC, orientado a proyectos CubeSat, integrando buenas prácticas de modelos como ISO/IEC 29110, TMMi, CMMI y el enfoque NASA. 
