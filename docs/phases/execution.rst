@@ -58,12 +58,19 @@ Durante la ejecución se generan productos internos como logs del sistema, captu
 Roles y responsabilidades
 --------------------------
 
-| Rol | Responsabilidad |
-|-----|----------------|
-| **Equipo de Pruebas** | Ejecutar casos de prueba, registrar resultados y gestionar defectos |
-| **Desarrolladores** | Proporcionar soporte técnico y corregir defectos identificados |
-| **Líder Técnico** | Supervisar la ejecución y tomar decisiones sobre continuidad de pruebas |
-| **Cliente/Usuario** | Participar en pruebas de aceptación y validar funcionalidades críticas |
+.. list-table::
+   :header-rows: 1
+
+   * - Rol
+     - Responsabilidad
+   * - **Equipo de Pruebas**
+     - Ejecutar casos de prueba, registrar resultados y gestionar defectos
+   * - **Desarrolladores**
+     - Proporcionar soporte técnico y corregir defectos identificados
+   * - **Líder Técnico**
+     - Supervisar la ejecución y tomar decisiones sobre continuidad de pruebas
+   * - **Cliente/Usuario**
+     - Participar en pruebas de aceptación y validar funcionalidades críticas
 
 Diagrama de Ejecución de Pruebas
 ---------------------------------

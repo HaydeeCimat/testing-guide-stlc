@@ -61,7 +61,7 @@ Roles y responsabilidades
 Diagrama de Diseño de Pruebas
 ------------------------------
 
-.. figure:: /_static/images/Guia_P4.png
+.. figure:: /_static/images/Guia_P3.png
    :alt: Diagrama de diseño de pruebas
    :width: 100%
    :align: center
