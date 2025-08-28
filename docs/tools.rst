@@ -10,7 +10,7 @@ Las tablas a continuación presentan una guía general sobre el tipo de herramie
 Soporte a la Planificación y Gestión
 -----------------------------------------
 
-.. list-table:: Herramientas sugeridas 1
+.. list-table::
    :header-rows: 1
    :widths: 30 70
 
@@ -28,7 +28,7 @@ Soporte a la Planificación y Gestión
 Soporte al Diseño y Análisis de Pruebas
 --------------------------------------------
 
-.. list-table:: Herramientas sugeridas 2
+.. list-table:: 
    :header-rows: 1
    :widths: 30 70
 
@@ -46,7 +46,7 @@ Soporte al Diseño y Análisis de Pruebas
 Soporte a la Ejecución de Pruebas
 --------------------------------------
 
-.. list-table:: Herramientas sugeridas 3
+.. list-table:: 
    :header-rows: 1
    :widths: 30 70
 
@@ -64,7 +64,7 @@ Soporte a la Ejecución de Pruebas
 Soporte al Cierre y Mejora del Proceso
 -------------------------------------------
 
-.. list-table:: Herramientas sugeridas 4
+.. list-table:: 
    :header-rows: 1
    :widths: 30 70
 
@@ -76,4 +76,3 @@ Soporte al Cierre y Mejora del Proceso
      - Herramientas de análisis de datos (ej. Excel, Python con pandas/matplotlib, R)
    * - Planes de mejora del proceso
      - Herramientas de gestión de procesos (ej. Notion, Wiki internos, plantillas estructuradas)
-Contenido pendiente...

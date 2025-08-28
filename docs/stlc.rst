@@ -1,8 +1,6 @@
 STLC
 ====
 
-# STLC
-
 El Software Testing Life Cycle (STLC) es un modelo estructurado que define las etapas por las cuales pasa el proceso de pruebas de software desde su planeación hasta su cierre formal. Cada etapa genera productos de trabajo específicos y busca asegurar la calidad del sistema en función de requisitos previamente definidos.
 
 ## Etapas clásicas del STLC
@@ -27,11 +25,13 @@ El ciclo tradicional del STLC comprende las siguientes fases secuenciales:
 
    Figura 1. Diagrama general del STLC
 
-## Relación con otros procesos del ciclo de vida
+Relación con otros procesos del ciclo de vida
+----------------------------------------------
 
 El subproceso de pruebas propuesto en esta guía forma parte integral del proceso de Implementación de Software (IS). Su ejecución se basa en productos de entrada generados por las fases previas del desarrollo, como los requisitos validados, el diseño aprobado y los ambientes de prueba definidos.
 
-## Condiciones de entrada al subproceso de pruebas
+Condiciones de entrada al subproceso de pruebas
+------------------------------------------------
 
 Para aplicar esta guía, se requiere que el proyecto cuente con los siguientes elementos básicos previos a la ejecución del subproceso de pruebas:
 
@@ -42,7 +42,8 @@ Para aplicar esta guía, se requiere que el proyecto cuente con los siguientes e
 - Acceso al entorno de pruebas (físico, virtual o simulado)
 - Herramientas básicas de registro y control de pruebas
 
-## Soporte transversal: repositorio de trabajo y control de versiones
+Soporte transversal: repositorio de trabajo y control de versiones
+-------------------------------------------------------------------
 
 Como soporte complementario, esta guía considera el uso de un repositorio de proyecto para almacenar y versionar los productos de trabajo generados durante las actividades de pruebas. Esto incluye:
 
