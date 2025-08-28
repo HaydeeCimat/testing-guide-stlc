@@ -1,56 +1,65 @@
 Diseño de pruebas
 =================
 
-
-# Diseño de Pruebas
-
 El diseño de pruebas define y documenta los casos de prueba, los procedimientos, los datos y las condiciones necesarias para validar que el sistema cumple con los requisitos especificados. Se busca garantizar la trazabilidad entre los requisitos y las pruebas, así como preparar el entorno y los insumos requeridos para su correcta ejecución.
 
-## Actividades principales
+Actividades principales
+------------------------
 
-### DF2.2 – Diseñar Casos de Prueba basados en los Requisitos del Sistema
+- DF2.2 – Diseñar Casos de Prueba basados en los Requisitos del Sistema
 Elaboración de casos de prueba que permitan validar funcionalidades, condiciones límite, excepciones y requisitos no funcionales.
 
-### DF2.3 – Revisar y Aprobar Casos de Prueba
+- DF2.3 – Revisar y Aprobar Casos de Prueba
 Validación de la cobertura, claridad y aplicabilidad de los casos de prueba mediante revisión técnica y aprobación formal por parte de líderes técnicos y/o gerencia.
 
-### DF2.4 – Preparación de Datos de Prueba
+- DF2.4 – Preparación de Datos de Prueba
 Diseño o selección de datos que representen condiciones reales, límites y escenarios de fallo controlado, asegurando su integridad y trazabilidad.
 
-### DF2.5 – Configuración del Entorno de Pruebas
+- DF2.5 – Configuración del Entorno de Pruebas
 Instalación, validación y documentación del entorno donde se realizarán las pruebas (simuladores, hardware, software, versiones).
 
-### VV2.3 – Ajustes al Plan de Validación
+- VV2.3 – Ajustes al Plan de Validación
 En caso de identificar nuevos criterios o escenarios durante el diseño, actualización del plan de validación para mantener la consistencia.
 
-## Productos de trabajo
+Productos de trabajo
+---------------------
 
-### Entrada necesaria
-- **Plan de Pruebas** [Aprobado]
-- **Requisitos del Sistema** [Verificado]
-- **Documento de Análisis de Requisitos**
-- **Ambiente de Pruebas**
-- **Plan de Validación** [Revisado]
+**Entrada necesaria**
+- Plan de Pruebas [Aprobado]
+- Requisitos del Sistema [Verificado]
+- Documento de Análisis de Requisitos
+- Ambiente de Pruebas
+- Plan de Validación [Revisado]
 
-### Salida esperada
-- **Casos de Prueba** [Aprobados] - Conjunto estructurado de entradas, condiciones esperadas, pasos y criterios de evaluación
-- **Procedimientos de Prueba** [Documentados] - Instrucciones detalladas para ejecutar pruebas de manera repetible y trazable
-- **Datos de Prueba** [Listos] - Conjuntos de datos reales, simulados o híbridos, preparados y validados para su uso
-- **Entorno de Pruebas** [Configurado] - Equipos, herramientas y versiones configuradas para ejecución
+**Salida esperada**
+- Casos de Prueba [Aprobados] - Conjunto estructurado de entradas, condiciones esperadas, pasos y criterios de evaluación
+- Procedimientos de Prueba [Documentados] - Instrucciones detalladas para ejecutar pruebas de manera repetible y trazable
+- Datos de Prueba [Listos] - Conjuntos de datos reales, simulados o híbridos, preparados y validados para su uso
+- Entorno de Pruebas [Configurado] - Equipos, herramientas y versiones configuradas para ejecución
 
-### Productos de apoyo
+Productos de apoyo
+------------------
 Durante la ejecución pueden generarse productos internos como plantillas de casos de prueba, listas de verificación de cobertura, matriz de trazabilidad requisitos ↔ pruebas, logs de preparación de entornos y bitácora técnica de validaciones previas.
 
-## Roles y responsabilidades
+Roles y responsabilidades
+---------------------------
 
-| Rol | Responsabilidad |
-|-----|----------------|
-| **Equipo de Pruebas** | Diseñar y documentar casos de prueba y procedimientos |
-| **Desarrolladores** | Aportar conocimiento técnico sobre diseño y arquitectura del sistema |
-| **Líder Técnico** | Verificar consistencia entre análisis, diseño y especificaciones |
-| **Cliente/Usuario** | Contribuir en la definición de criterios de aceptación finales |
+.. list-table::
+   :header-rows: 1
 
-## Diagrama de Diseño de Pruebas
+   * - Rol
+     - Responsabilidad
+   * - **Equipo de Pruebas**
+     - Diseñar y documentar casos de prueba y procedimientos
+   * - **Desarrolladores**
+     - Aportar conocimiento técnico sobre diseño y arquitectura del sistema
+   * - **Líder Técnico**
+     - Verificar consistencia entre análisis, diseño y especificaciones
+   * - **Cliente/Usuario**
+     - Contribuir en la definición de criterios de aceptación finales
+
+Diagrama de Diseño de Pruebas
+------------------------------
 
 .. figure:: /_static/images/Guia_P4.png
    :alt: Diagrama de diseño de pruebas
@@ -59,10 +68,11 @@ Durante la ejecución pueden generarse productos internos como plantillas de cas
 
    Figura 4. Diagrama que representa la relación entre actividades, productos y actores durante la fase de diseño de pruebas.
 
-## Herramientas recomendadas
+Herramientas recomendadas
+---------------------------
 
-- **Diseño de pruebas** - TestLink, Xray, qTest, Zephyr para gestión formal de casos de prueba
-- **Técnicas de diseño** - Partición de equivalencia, análisis de valores límite, pruebas basadas en estado
-- **Modelado** - Diagramas de flujo o diagramas de transición de estado
-- **Simulación** - Simuladores de sensores o subsistemas CubeSat
-- **Trazabilidad** - Hojas de cálculo estructuradas, ReqView, Jira para seguimiento de requisitos
+- Diseño de pruebas - TestLink, Xray, qTest, Zephyr para gestión formal de casos de prueba
+- Técnicas de diseño - Partición de equivalencia, análisis de valores límite, pruebas basadas en estado
+- Modelado - Diagramas de flujo o diagramas de transición de estado
+- Simulación - Simuladores de sensores o subsistemas CubeSat
+- Trazabilidad - Hojas de cálculo estructuradas, ReqView, Jira para seguimiento de requisitos
