@@ -3,7 +3,8 @@ STLC
 
 El Software Testing Life Cycle (STLC) es un modelo estructurado que define las etapas por las cuales pasa el proceso de pruebas de software desde su planeación hasta su cierre formal. Cada etapa genera productos de trabajo específicos y busca asegurar la calidad del sistema en función de requisitos previamente definidos.
 
-## Etapas clásicas del STLC
+Etapas clásicas del STLC
+-------------------------
 
 El ciclo tradicional del STLC comprende las siguientes fases secuenciales:
 

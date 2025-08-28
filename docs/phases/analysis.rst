@@ -15,21 +15,18 @@ Establecimiento de los criterios que deben cumplirse para considerar que un comp
 Productos de trabajo
 ---------------------
 
-Entrada necesaria
-- **Requisitos de Software** [Verificado]
-- **Diseño de Software** [Aprobado]  
-- **Plan del Proyecto**
-- **Enunciado del Trabajo** (si aplica)
+**Entrada necesaria**
+- Requisitos de Software [Verificado]
+- Diseño de Software [Aprobado]  
+- Plan del Proyecto
+- Enunciado del Trabajo (si aplica)
 
-Salida esperada
-- **Documento de Análisis de Requisitos de Pruebas** [Revisado] - Registro estructurado de hallazgos, dependencias funcionales, cobertura de pruebas esperada y observaciones técnicas derivadas del análisis
-- **Plan de Validación del Sistema** [Revisado] - Documento que resume los criterios de aceptación, el enfoque de validación y las condiciones esperadas para ejecutar dicha validación
+**Salida esperada**
+- Documento de Análisis de Requisitos de Pruebas [Revisado] - Registro estructurado de hallazgos, dependencias funcionales, cobertura de pruebas esperada y observaciones técnicas derivadas del análisis
+- Plan de Validación del Sistema [Revisado] - Documento que resume los criterios de aceptación, el enfoque de validación y las condiciones esperadas para ejecutar dicha validación
 
-Productos de apoyo
+**Productos de apoyo**
 Durante la ejecución pueden generarse productos internos como plantillas de trazabilidad (requisitos ↔ módulos ↔ casos de prueba), checklists de validación de requisitos y notas técnicas internas que ayudan a formalizar el análisis.
-
-Roles y responsabilidades
--------------------------
 
 Roles y responsabilidades
 -------------------------
